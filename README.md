@@ -1,5 +1,6 @@
 # recent-trend-paper
 
+
 ## 2024
 | **Title** |**Publication** | **Review** | **Source** |
 |:--------|:--------:|:--------:|:--------:|
